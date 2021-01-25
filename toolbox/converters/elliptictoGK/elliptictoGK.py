@@ -67,7 +67,7 @@ class Measurement(object):
         self.infile = r''
         self.outfile = r''
 		# use geoid default
-        self.geoid = r'Geoid/GEOID_GRS80_Oesterreich.csv'
+        self.geoid = r''
         # lat/lon in 
         self.lat_in = []
         self.y_out = []
