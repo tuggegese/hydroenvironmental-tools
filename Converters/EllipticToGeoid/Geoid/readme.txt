@@ -1,0 +1,1 @@
+downloaded 08.01.2021 @○ https://www.bev.gv.at/portal/page?_pageid=713,2601285&_dad=portal&_schema=PORTAL
