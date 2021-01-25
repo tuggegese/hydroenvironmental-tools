@@ -27,12 +27,12 @@ setup(
 	  
       keywords = 'hydrology, hydrodynamics, ecology',
 
-	  packages = ["toolbox", "toolbox.Converters", "toolbox.Converters.EllipticToGeoid"],
+	  packages = ["toolbox", "toolbox.converters", "toolbox.Converters.elliptictoGK"],
 	  
 	  package_dir={"toolbox": "toolbox"},
 	  
       scripts=[
-	      "toolbox/Converters/EllipticToGeoid/elliptictogeoid.py"
+	      "toolbox/converters/elliptictoGK/elliptictoGK.py"
 	  ],
 
       classifiers=[
