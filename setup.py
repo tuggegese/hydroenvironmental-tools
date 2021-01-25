@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
 
-      name='hydroenvironmental-tools',
+      name='hydroenvironmentaltools',
 
       author='Sebastian Gegenleithner',
 
