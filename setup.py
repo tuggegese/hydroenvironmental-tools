@@ -29,8 +29,7 @@ setup(
 
       scripts=[
 	      "toolbox/Converters/EllipticToGeoid/elliptictogeoid.py"
-	  ]
-
+	  ],
 
       classifiers=[
 
