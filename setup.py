@@ -27,6 +27,10 @@ setup(
 	  
       keywords = 'hydrology, hydrodynamics, ecology',
 
+	  packages = ["toolbox", "toolbox.Converters", "toolbox.Converters.EllipticToGeoid"],
+	  
+	  package_dir={"toolbox": "toolbox"},
+	  
       scripts=[
 	      "toolbox/Converters/EllipticToGeoid/elliptictogeoid.py"
 	  ],
