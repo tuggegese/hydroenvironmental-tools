@@ -27,7 +27,7 @@ setup(
 	  
       keywords = 'hydrology, hydrodynamics, ecology',
 
-	  packages = ["toolbox", "toolbox.converters", "toolbox.Converters.elliptictoGK"],
+	  packages = ["toolbox", "toolbox.converters", "toolbox.converters.elliptictoGK"],
 	  
 	  package_dir={"toolbox": "toolbox"},
 	  
