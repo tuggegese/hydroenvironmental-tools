@@ -7,7 +7,7 @@ Example use:
 
 ```measurement = Measurement()```
 
-```infile = r'C:\original_coordinates.txt'```
+```infile = r'C:\input_example.txt'```
 
 ```outfile = r'C:\projected_coordinates.txt```
 
