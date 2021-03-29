@@ -1,5 +1,5 @@
 # Elliptic To Geoid
-Transfroms elliptic coordinates with the GRS80 Geoid. 
+Transforms elliptic coordinates with the GRS80 Geoid. 
 
 Example use:
 
